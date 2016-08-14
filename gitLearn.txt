@@ -2,3 +2,4 @@ the first line of the gitLearn.txt file ,let's add some char at the end of first
 add the second line 
 add the third line D
 测试中文输入
+new push 
