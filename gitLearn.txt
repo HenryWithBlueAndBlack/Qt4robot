@@ -1,2 +1,2 @@
-the first line of the gitLearn.txt file
+the first line of the gitLearn.txt file ,let's add some char at the end of first line
 
